@@ -80,7 +80,7 @@ Os parâmetros informados no método são:
 
 ## Utilitários
 
-Ainda com esta biblioteca, é possivel acessar método utilitários da API de NFe. Veja exemplos:
+Ainda com esta biblioteca, é possivel acessar método utilitários da API de NFe.
 
 ### Consulta de cadastro de contribuinte
 
