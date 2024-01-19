@@ -82,19 +82,13 @@ Os parâmetros informados no método são:
 
 Ainda com esta biblioteca, é possivel acessar método utilitários da API de NFe.
 
-### Consulta de cadastro de contribuinte
-
-### Consultar situação de NFe
-        
-### Consultar Status de Web Service
-
-### Agendamento de Envio de E-Mail de NFe
-        
-### Listagem de nsNRec's vinculados à uma NFe
-
-### Gerar prévia de DANFE 
-
-### Informações Adicionais
++ Consulta de cadastro de contribuinte
++ Consultar situação de NFe      
++ Consultar Status de Web Service
++ Agendamento de Envio de E-Mail de NFe   
++ Listagem de nsNRec's vinculados à uma NFe
++ Gerar prévia de DANFE 
++ Informações Adicionais
 
 Para saber mais sobre o projeto NFe API da NS Tecnologia, consulte a [documentação](https://docsnstecnologia.wpcomstaging.com/docs/ns-nfe/)
 
